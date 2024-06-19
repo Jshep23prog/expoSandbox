@@ -48,3 +48,10 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+cd into where you want the project:
+npx create-expo-app@latest
+It will prompt you to name it
+cd into the project and then enter
+npx expo start
+Scan the QR code that comes up, and then it will pull up in Expo Go (you have to log into Expo Go)
